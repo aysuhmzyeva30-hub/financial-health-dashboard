@@ -21,14 +21,14 @@ This project goes beyond simple visual metrics to build a **data-driven business
 * **Performance Baseline:** Analyzed **$45.90M** in total card spend across **1 Million distinct transactions**, with a steady, predictable average transaction value of **$43.78**.
 * **Data Timeline & Volatility:** Spending shows a steady upward trajectory throughout the year. While November appears to have a drop-off, this is an artifact of the dataset ending on **November 6, 2010**. The consistent month-over-month growth leading up to this point indicates highly active customer card usage.
 * **Card Tier Breakdown:** Debit cards represent the absolute majority of transaction volumes at **57.23% ($26.27M)**, followed by Credit cards at **39.37% ($18.07M)**. Prepaid cards represent a significant growth opportunity, capturing only **3.4%** of user transactions.
-![Dashboard Page 1](customer.jpeg)
+![Dashboard Page 1](financee.jpeg)
 ### 👥 Chapter 2: Customer Insights (Client Profiles & Spending Habits)
 * **Client Baseline:** Bank manages **2,000 active clients** with an average age of **45** and a solid, low-risk average Credit Score of **709.73**.
 * **Gender Spend Dynamics:** Female clients slightly dominate total transaction spending at **50.79%**, with Male clients accounting for **49.21%**. Targeted promotional campaigns tailored to female demographic preferences represent a highly optimized revenue stream for the bank.
 * **Digital Commerce Gaps:** Swipe (in-store/physical) transactions overwhelmingly dominate spending at **$39.15M**, while Online transactions lag at a mere **$6.75M**. 
   * *Strategic Action:* Bank should introduce promotional campaigns (e.g., higher online cashback) to convert offline users to highly profitable e-commerce operations.
 
-![Dashboard Page 2](financee.jpeg)
+![Dashboard Page 2](customer.jpeg)
 ### 🛡️ Chapter 3: Risk Insights (Operational Loop-holes & System Health)
 * **Operational Failures:** Over **16,000 failed transactions** were logged. The overwhelming majority of these failures are due to **Insufficient Balance (~10K errors)**, followed by **Bad PIN** errors.
 * **The Debt & Insufficient Balance Contradiction (Critical Credit Risk):**
